@@ -13,7 +13,7 @@ This project demonstrates a secure bridge between cloud storage and compute reso
 ## Technical Verification (Proof of Work)
 
 ### 1. Cloud Networking and Security
-I configured Inbound Rules to allow Port 80 (HTTP) for public access while keeping Port 22 (SSH) restricted to a specific administrative IP. This proves an understanding of "Least Privilege" security.
+I configured Inbound Rules to allow Port 80 (HTTP) for public access while keeping Port 22 (SSH) restricted to a specific administrative IP.
 ![Security Groups](images/securitygroup.PNG)
 
 ### 2. The S3-to-EC2 Bridge
