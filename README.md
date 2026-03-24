@@ -1,5 +1,4 @@
 # AWS-RHEL-S3-WebBridge
-**Cloud Engineering Portfolio Project**
 
 This project demonstrates a secure bridge between cloud storage and compute resources. I deployed a Red Hat Enterprise Linux (RHEL 9) web server on AWS EC2 and integrated it with Amazon S3 for dynamic content delivery.
 
